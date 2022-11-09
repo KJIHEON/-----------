@@ -145,7 +145,7 @@
 // }
 
 //인터페이스는 오브젝트의 모양을 지정, 타입이나 인터페스도 가능하고 리턴값에 넣을수고 있다.
-
+/*
 interface User {
   firstName: string;
   lastName: string; //초기화
@@ -187,6 +187,7 @@ makeUser({
   fullName: () => 'ㅇㅇㅇ',
   sayHi: (name) => '안녕',
 });
+*/
 /*Type Aliases과 Interfaces의 차이점
 Type Aliases과 인터페이스는 매우 유사하며 많은 경우
 자유롭게 선택할 수 있습니다. 인터페이스의 거의 모든 기능은 
